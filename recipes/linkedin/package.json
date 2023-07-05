@@ -1,0 +1,9 @@
+{
+  "id": "linkedin",
+  "name": "LinkedIn",
+  "version": "1.8.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.linkedin.com/messaging"
+  }
+}

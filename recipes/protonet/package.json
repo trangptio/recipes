@@ -1,0 +1,11 @@
+{
+  "id": "protonet",
+  "name": "protonet",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}.protonet.info",
+    "hasNotificationSound": true,
+    "hasTeamId": true
+  }
+}

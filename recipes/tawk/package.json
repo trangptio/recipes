@@ -1,0 +1,10 @@
+{
+  "id": "tawk",
+  "name": "Tawk.to",
+  "version": "1.3.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://dashboard.tawk.to/",
+    "hasNotificationSound": true
+  }
+}

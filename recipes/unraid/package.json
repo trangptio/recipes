@@ -1,0 +1,11 @@
+{
+  "id": "unraid",
+  "name": "Unraid",
+  "version": "1.2.0",
+  "license": "MIT",
+  "repository": "https://github.com/rctneil/franz-recipe-unraid",
+  "config": {
+    "serviceURL": "{teamId}",
+    "hasTeamId": true
+  }
+}

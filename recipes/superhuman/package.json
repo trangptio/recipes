@@ -1,0 +1,10 @@
+{
+  "id": "superhuman",
+  "name": "Superhuman",
+  "version": "1.2.0",
+  "license": "MIT",
+  "repository": "https://github.com/CrystalLarsh/franz-superhuman-recipe",
+  "config": {
+    "hasCustomUrl": true
+  }
+}

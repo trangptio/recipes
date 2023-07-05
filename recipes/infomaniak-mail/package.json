@@ -1,0 +1,9 @@
+{
+  "id": "infomaniak-mail",
+  "name": "Infomaniak Mail",
+  "version": "1.3.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.infomaniak.com/"
+  }
+}

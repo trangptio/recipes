@@ -1,0 +1,10 @@
+{
+  "id": "ciscospark",
+  "name": "Cisco Spark",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.ciscospark.com",
+    "hasIndirectMessages": true
+  }
+}

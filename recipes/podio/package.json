@@ -1,0 +1,10 @@
+{
+  "id": "podio",
+  "name": "Podio",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://podio.com",
+    "hasNotificationSound": true
+  }
+}

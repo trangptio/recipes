@@ -1,0 +1,9 @@
+{
+  "id": "box",
+  "name": "Box",
+  "version": "1.3.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://account.box.com/login"
+  }
+}

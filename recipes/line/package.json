@@ -1,0 +1,9 @@
+{
+  "id": "line",
+  "name": "Line",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "chrome-extension://ophjlpahpchlmihnnnihgmmeilfjmjjc/index.html"
+  }
+}

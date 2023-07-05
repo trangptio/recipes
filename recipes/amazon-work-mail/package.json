@@ -1,0 +1,10 @@
+{
+  "id": "amazon-work-mail",
+  "name": "Amazon WorkMail",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}.awsapps.com/mail",
+    "hasTeamId": true
+  }
+}

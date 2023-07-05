@@ -1,0 +1,10 @@
+{
+  "id": "feedbin",
+  "name": "Feedbin",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://feedbin.com/login",
+    "hasNotificationSound": true
+  }
+}

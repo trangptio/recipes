@@ -1,0 +1,11 @@
+{
+  "id": "glowing-bear",
+  "name": "Glowing Bear",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.glowing-bear.org",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}

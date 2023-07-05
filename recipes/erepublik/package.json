@@ -1,0 +1,9 @@
+{
+  "id": "erepublik",
+  "name": "eRepublik",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://erepublik.com"
+  }
+}

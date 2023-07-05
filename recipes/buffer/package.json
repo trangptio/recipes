@@ -1,0 +1,10 @@
+{
+  "id": "buffer",
+  "name": "Buffer",
+  "version": "1.2.0",
+  "license": "GPL",
+  "config": {
+    "serviceURL": "https://buffer.com",
+    "hasNotificationSound": true
+  }
+}

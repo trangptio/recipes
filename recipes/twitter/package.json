@@ -1,0 +1,10 @@
+{
+  "id": "twitter",
+  "name": "Twitter",
+  "version": "1.5.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://twitter.com",
+    "hasNotificationSound": true
+  }
+}

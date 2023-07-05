@@ -1,0 +1,10 @@
+{
+  "id": "teamleader",
+  "name": "teamleader",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.teamleader.eu/?gotologin",
+    "hasNotificationSound": true
+  }
+}
